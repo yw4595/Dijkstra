@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\Dijkstra's\bin\Debug\Dijkstra's.exe.config
+C:\Users\Wiz\Desktop\Dijkstra's\bin\Debug\Dijkstra's.exe
+C:\Users\Wiz\Desktop\Dijkstra's\bin\Debug\Dijkstra's.pdb
+C:\Users\Wiz\Desktop\Dijkstra's\obj\Debug\Dijkstra's.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\Dijkstra's\obj\Debug\Dijkstra's.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\Dijkstra's\obj\Debug\Dijkstra's.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\Dijkstra's\obj\Debug\Dijkstra's.exe
+C:\Users\Wiz\Desktop\Dijkstra's\obj\Debug\Dijkstra's.pdb
